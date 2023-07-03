@@ -1,4 +1,11 @@
-body {
-    background-color: aqua;
-    color: blueviolet;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    background-color: rgb(5, 50, 50);
+    color: rgb(167, 137, 195);
 };
+ 
