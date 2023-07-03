@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     background-color: aqua;
     color: blueviolet;
@@ -20,3 +21,10 @@ main p {
     color: #fff;
     background-color: gray;     
 }
+
+p{
+    background-color: rgb(5, 50, 50);
+    color: rgb(167, 137, 195);
+};
+ 
+
